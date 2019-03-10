@@ -9,7 +9,9 @@ ohhhh one more thing lots of *LOve<3 <3*
 thanks to BOOTSTRAP for making our life easy
 
 links to all Bootstrap CDN:
+
  <!-- Bootstrap CSS -->
+ 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
